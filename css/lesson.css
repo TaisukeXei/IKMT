@@ -3,7 +3,7 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 100vh;
+  min-height: 50vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
@@ -28,7 +28,7 @@ h1.title,
 /* start welcome animation */
 
 body.welcome {
-  background: #512da8;
+  background: #000000;
   overflow: hidden;
   -webkit-font-smoothing: antialiased;
 }
