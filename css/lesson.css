@@ -18,7 +18,7 @@ main {
           flex: 1 0 auto;
 }
 
-h1.title,
+h3.title,
 .footer-copyright a {
   font-family: 'Architects Daughter', cursive;
   text-transform: uppercase;
