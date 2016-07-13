@@ -3,7 +3,7 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 50vh;
+  min-height: 100vh;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
   -webkit-flex-direction: column;
